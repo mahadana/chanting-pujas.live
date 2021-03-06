@@ -1,0 +1,30 @@
+{
+  "id": "ccb-1.1.2",
+  "mediaUrl": "https://www.abhayagiri.org/media/chanting/audio/morning.mp3",
+  "start": 199,
+  "end": 264,
+  "nodes": [
+    {
+      "start": 200.7
+    },
+    {
+      "start": 208.3
+    },
+    {
+      "start": 213.4,
+      "end": 241
+    },
+    {
+      "start": 241,
+      "end": 241
+    },
+    {
+      "start": 241.8,
+      "end": 263
+    },
+    {
+      "start": 263,
+      "end": 263
+    }
+  ]
+}
