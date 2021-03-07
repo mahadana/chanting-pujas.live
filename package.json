@@ -1,0 +1,27 @@
+{
+  "name": "chanting-pujas.live",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Chanting data files for Pujas.live.",
+  "scripts": {
+    "build": "babel-node src/build.js",
+    "watch": "nodemon --exec npx babel-node src/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahadana/chanting-pujas.live.git"
+  },
+  "author": "Pujas.live <contact@pujas.live>",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/mahadana/chanting-pujas.live",
+  "dependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/node": "^7.13.0",
+    "@babel/preset-env": "^7.13.9",
+    "cheerio": "^1.0.0-rc.5",
+    "glob": "^7.1.6",
+    "glob-promise": "^4.1.0",
+    "lodash": "^4.17.21",
+    "striptags": "^3.1.1"
+  }
+}
