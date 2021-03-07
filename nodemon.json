@@ -1,4 +1,4 @@
 {
   "ext": "html,js,json",
-  "ignore": ["dist", ".git", "node_modules"]
+  "ignore": ["dist/*", ".git/*", "node_modules/*"]
 }

@@ -2,7 +2,8 @@ import $ from "cheerio";
 import { promises as fs } from "fs";
 import glob from "glob-promise";
 import _ from "lodash";
-import { join, resolve } from "path";
+import mkdirp from "mkdirp";
+import { dirname, join, relative, resolve } from "path";
 import striptags from "striptags";
 
 const PROJECT_DIR = resolve(__dirname, "..");
@@ -13,6 +14,19 @@ const CHANTS_OUTPUT_PATH = join(PROJECT_DIR, "dist", "chants.json");
 const TIMING_OUTPUT_PATH = join(PROJECT_DIR, "dist", "timing.json");
 
 const ALLOWED_TAGS = ["em", "i", "strong", "u"];
+
+const readFile = async (path) => fs.readFile(path, { encoding: "utf8" });
+
+const readJson = async (path) => JSON.parse(await readFile(path));
+
+export const writeFile = async (path, text) => {
+  await mkdirp(dirname(path));
+  console.log(relative(PROJECT_DIR, path));
+  await fs.writeFile(path, text, { encoding: "utf8" });
+};
+
+const writeJson = async (path, data) =>
+  writeFile(path, JSON.stringify(data, null, 2) + "\n");
 
 const getCleanHtml = (el) =>
   striptags($(el).html(), ALLOWED_TAGS)
@@ -173,13 +187,6 @@ const parseChantingHtml = (html) =>
       return cleanObject(chant);
     })
     .get()[0];
-
-const readFile = async (path) => fs.readFile(path, { encoding: "utf8" });
-const readJson = async (path) => JSON.parse(await readFile(path));
-const writeFile = async (path, data) =>
-  fs.writeFile(path, data, { encoding: "utf8" });
-const writeJson = async (path, data) =>
-  writeFile(path, JSON.stringify(data, null, 2) + "\n");
 
 const getChantHtmls = async () =>
   Promise.all(
