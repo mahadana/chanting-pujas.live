@@ -1,0 +1,845 @@
+[
+  {
+    "volume": 1,
+    "title": "Chanting Book · Volume One",
+    "subTitle": "Morning and Evening Chanting (Pūjā) and Reflections",
+    "parts": [
+      {
+        "title": "Morning Chanting",
+        "part": 1,
+        "page": 1,
+        "chantSet": [
+          "ccb-1.1.1",
+          "ccb-1.1.2",
+          "ccb-1.1.3",
+          "ccb-1.1.4",
+          "ccb-1.1.5",
+          "ccb-1.1.6",
+          "ccb-1.1.7"
+        ],
+        "link": "ccb-1.1.1",
+        "chants": [
+          {
+            "title": "Dedication of Offerings",
+            "lang": "mixed",
+            "page": 2,
+            "link": "ccb-1.1.1"
+          },
+          {
+            "title": "Preliminary Homage",
+            "lang": "mixed",
+            "page": 3,
+            "link": "ccb-1.1.2"
+          },
+          {
+            "title": "Homage to the Buddha",
+            "lang": "mixed",
+            "page": 4,
+            "link": "ccb-1.1.3"
+          },
+          {
+            "title": "Homage to the Dhamma",
+            "lang": "mixed",
+            "page": 6,
+            "link": "ccb-1.1.4"
+          },
+          {
+            "title": "Homage to the Saṅgha",
+            "lang": "mixed",
+            "page": 7,
+            "link": "ccb-1.1.5"
+          },
+          {
+            "title": "Salutation to the Triple Gem",
+            "lang": "mixed",
+            "page": 9,
+            "link": "ccb-1.1.6"
+          },
+          {
+            "title": "Closing Homage",
+            "lang": "mixed",
+            "page": 16,
+            "link": "ccb-1.1.7"
+          }
+        ]
+      },
+      {
+        "title": "Evening Chanting (Pali)",
+        "part": 2,
+        "page": 17,
+        "chantSet": [
+          "ccb-1.2.1.1",
+          "ccb-1.2.1.2",
+          "ccb-1.2.1.3",
+          "ccb-1.2.1.4",
+          "ccb-1.2.1.5",
+          "ccb-1.2.1.6",
+          "ccb-1.2.1.7",
+          "ccb-1.2.1.8",
+          "ccb-1.2.1.9"
+        ],
+        "link": "ccb-1.2.1.1",
+        "chants": [
+          {
+            "title": "Dedication of Offerings",
+            "lang": "pi",
+            "page": 18,
+            "link": "ccb-1.2.1.1"
+          },
+          {
+            "title": "Preliminary Homage",
+            "lang": "pi",
+            "page": 20,
+            "link": "ccb-1.2.1.2"
+          },
+          {
+            "title": "Recollection of the Buddha",
+            "lang": "pi",
+            "page": 20,
+            "link": "ccb-1.2.1.3"
+          },
+          {
+            "title": "Supreme Praise of the Buddha",
+            "lang": "pi",
+            "page": 22,
+            "link": "ccb-1.2.1.4"
+          },
+          {
+            "title": "Recollection of the Dhamma",
+            "lang": "pi",
+            "page": 24,
+            "link": "ccb-1.2.1.5"
+          },
+          {
+            "title": "Supreme Praise of the Dhamma",
+            "lang": "pi",
+            "page": 24,
+            "link": "ccb-1.2.1.6"
+          },
+          {
+            "title": "Recollection of the Saṅgha",
+            "lang": "pi",
+            "page": 26,
+            "link": "ccb-1.2.1.7"
+          },
+          {
+            "title": "Supreme Praise of the Saṅgha",
+            "lang": "pi",
+            "page": 26,
+            "link": "ccb-1.2.1.8"
+          },
+          {
+            "title": "Closing Homage",
+            "lang": "pi",
+            "page": 28,
+            "link": "ccb-1.2.1.9"
+          }
+        ]
+      },
+      {
+        "title": "Evening Chanting (English)",
+        "part": 2,
+        "page": 17,
+        "chantSet": [
+          "ccb-1.2.2.1",
+          "ccb-1.2.2.2",
+          "ccb-1.2.2.3",
+          "ccb-1.2.2.4",
+          "ccb-1.2.2.5",
+          "ccb-1.2.2.6",
+          "ccb-1.2.2.7",
+          "ccb-1.2.2.8",
+          "ccb-1.2.2.9"
+        ],
+        "link": "ccb-1.2.2.1",
+        "chants": [
+          {
+            "title": "Dedication of Offerings",
+            "lang": "en",
+            "page": 19,
+            "link": "ccb-1.2.2.1"
+          },
+          {
+            "title": "Preliminary Homage",
+            "lang": "en",
+            "page": 21,
+            "link": "ccb-1.2.2.2"
+          },
+          {
+            "title": "Recollection of the Buddha",
+            "lang": "en",
+            "page": 21,
+            "link": "ccb-1.2.2.3"
+          },
+          {
+            "title": "Supreme Praise of the Buddha",
+            "lang": "en",
+            "page": 23,
+            "link": "ccb-1.2.2.4"
+          },
+          {
+            "title": "Recollection of the Dhamma",
+            "lang": "en",
+            "page": 25,
+            "link": "ccb-1.2.2.5"
+          },
+          {
+            "title": "Supreme Praise of the Dhamma",
+            "lang": "en",
+            "page": 25,
+            "link": "ccb-1.2.2.6"
+          },
+          {
+            "title": "Recollection of the Saṅgha",
+            "lang": "en",
+            "page": 27,
+            "link": "ccb-1.2.2.7"
+          },
+          {
+            "title": "Supreme Praise of the Saṅgha",
+            "lang": "en",
+            "page": 27,
+            "link": "ccb-1.2.2.8"
+          },
+          {
+            "title": "Closing Homage",
+            "lang": "en",
+            "page": 29,
+            "link": "ccb-1.2.2.9"
+          }
+        ]
+      },
+      {
+        "title": "Reflections & Recollections",
+        "part": 3,
+        "page": 31,
+        "chantSet": [
+          "ccb-1.3.1.1",
+          "ccb-1.3.1.2",
+          "ccb-1.3.2",
+          "ccb-1.3.3.1",
+          "ccb-1.3.3.2",
+          "ccb-1.3.4.1",
+          "ccb-1.3.4.2",
+          "ccb-1.3.5.1",
+          "ccb-1.3.5.2",
+          "ccb-1.3.6",
+          "ccb-1.3.7",
+          "ccb-1.3.8",
+          "ccb-1.3.9",
+          "ccb-1.3.10",
+          "ccb-1.3.11",
+          "ccb-1.3.12",
+          "ccb-1.3.13",
+          "ccb-1.3.14",
+          "ccb-1.3.15",
+          "ccb-1.3.16",
+          "ccb-1.3.17",
+          "ccb-1.3.18",
+          "ccb-1.3.19",
+          "ccb-1.3.20",
+          "ccb-1.3.21",
+          "ccb-1.3.22",
+          "ccb-1.3.23",
+          "ccb-1.3.24",
+          "ccb-1.3.25",
+          "ccb-1.3.26",
+          "ccb-1.3.27",
+          "ccb-1.3.28"
+        ],
+        "link": "ccb-1.3.1.1",
+        "chants": [
+          {
+            "title": "Verses of Sharing and Aspiration (Pali)",
+            "lang": "pi",
+            "page": 32,
+            "link": "ccb-1.3.1.1"
+          },
+          {
+            "title": "Verses of Sharing and Aspiration (English)",
+            "lang": "en",
+            "page": 33,
+            "link": "ccb-1.3.1.2"
+          },
+          {
+            "title": "Verses on the Sharing of Merit",
+            "lang": "mixed",
+            "page": 34,
+            "link": "ccb-1.3.2"
+          },
+          {
+            "title": "The Buddha’s Words on Loving-Kindness (Pali)",
+            "lang": "pi",
+            "page": 36,
+            "link": "ccb-1.3.3.1"
+          },
+          {
+            "title": "The Buddha’s Words on Loving-Kindness (English)",
+            "lang": "en",
+            "page": 37,
+            "link": "ccb-1.3.3.2"
+          },
+          {
+            "title": "Reflection on Universal Well-Being (Pali)",
+            "lang": "pi",
+            "page": 40,
+            "link": "ccb-1.3.4.1"
+          },
+          {
+            "title": "Reflection on Universal Well-Being (English)",
+            "lang": "en",
+            "page": 41,
+            "link": "ccb-1.3.4.2"
+          },
+          {
+            "title": "Suffusion With the Divine Abidings (Pali)",
+            "lang": "pi",
+            "page": 42,
+            "link": "ccb-1.3.5.1"
+          },
+          {
+            "title": "Suffusion With the Divine Abidings (English)",
+            "lang": "en",
+            "page": 43,
+            "link": "ccb-1.3.5.2"
+          },
+          {
+            "title": "The Highest Blessings",
+            "lang": "en",
+            "page": 46,
+            "link": "ccb-1.3.6"
+          },
+          {
+            "title": "Reflection on the Unconditioned",
+            "lang": "mixed",
+            "page": 49,
+            "link": "ccb-1.3.7"
+          },
+          {
+            "title": "Just as Rivers",
+            "lang": "mixed",
+            "page": 50,
+            "link": "ccb-1.3.8"
+          },
+          {
+            "title": "Reflection on the Four Requisites",
+            "lang": "mixed",
+            "page": 53,
+            "link": "ccb-1.3.9"
+          },
+          {
+            "title": "Five Subjects for Frequent Recollection",
+            "lang": "mixed",
+            "page": 55,
+            "link": "ccb-1.3.10"
+          },
+          {
+            "title": "Ten Subjects for Frequent Recollection by One Who Has Gone Forth",
+            "lang": "mixed",
+            "page": 57,
+            "link": "ccb-1.3.11"
+          },
+          {
+            "title": "Reflection on the Thirty-Two Parts",
+            "lang": "mixed",
+            "page": 60,
+            "link": "ccb-1.3.12"
+          },
+          {
+            "title": "Reflection on the Off-Putting Qualities of the Requisites",
+            "lang": "mixed",
+            "page": 62,
+            "link": "ccb-1.3.13"
+          },
+          {
+            "title": "Reflection on Impermanence",
+            "lang": "mixed",
+            "page": 66,
+            "link": "ccb-1.3.14"
+          },
+          {
+            "title": "True and False Refuges",
+            "lang": "mixed",
+            "page": 69,
+            "link": "ccb-1.3.15"
+          },
+          {
+            "title": "Verses on the Riches of a Noble One",
+            "lang": "mixed",
+            "page": 71,
+            "link": "ccb-1.3.16"
+          },
+          {
+            "title": "Verses on the Three Characteristics",
+            "lang": "mixed",
+            "page": 72,
+            "link": "ccb-1.3.17"
+          },
+          {
+            "title": "Verses on the Burden",
+            "lang": "mixed",
+            "page": 74,
+            "link": "ccb-1.3.18"
+          },
+          {
+            "title": "Verses on a Shining Night of Prosperity",
+            "lang": "mixed",
+            "page": 75,
+            "link": "ccb-1.3.19"
+          },
+          {
+            "title": "Verses on Respect for the Dhamma",
+            "lang": "mixed",
+            "page": 77,
+            "link": "ccb-1.3.20"
+          },
+          {
+            "title": "Verses on the Training Code",
+            "lang": "mixed",
+            "page": 79,
+            "link": "ccb-1.3.21"
+          },
+          {
+            "title": "Verses on the Buddha’s First Exclamation",
+            "lang": "mixed",
+            "page": 83,
+            "link": "ccb-1.3.22"
+          },
+          {
+            "title": "Verses on the Last Instructions",
+            "lang": "mixed",
+            "page": 84,
+            "link": "ccb-1.3.23"
+          },
+          {
+            "title": "The Teaching on Mindfulness of Breathing",
+            "lang": "mixed",
+            "page": 85,
+            "link": "ccb-1.3.24"
+          },
+          {
+            "title": "The Teaching on the Noble Eightfold Path",
+            "lang": "mixed",
+            "page": 91,
+            "link": "ccb-1.3.25"
+          },
+          {
+            "title": "Teachings from the Discourse on Setting in Motion the Wheel of Dhamma",
+            "lang": "mixed",
+            "page": 101,
+            "link": "ccb-1.3.26"
+          },
+          {
+            "title": "The Teaching on Striving According to Dhamma",
+            "lang": "mixed",
+            "page": 115,
+            "link": "ccb-1.3.27"
+          },
+          {
+            "title": "The Verses of Tāyana",
+            "lang": "mixed",
+            "page": 120,
+            "link": "ccb-1.3.28"
+          }
+        ]
+      },
+      {
+        "title": "Formal Requests",
+        "part": 4,
+        "page": 123,
+        "chantSet": [
+          "ccb-1.4.1",
+          "ccb-1.4.2",
+          "ccb-1.4.3",
+          "ccb-1.4.4",
+          "ccb-1.4.5",
+          "ccb-1.4.6",
+          "ccb-1.4.7",
+          "ccb-1.4.8",
+          "ccb-1.4.9",
+          "ccb-1.4.10"
+        ],
+        "link": "ccb-1.4.1",
+        "chants": [
+          {
+            "title": "Añjali",
+            "lang": "en",
+            "page": 124,
+            "link": "ccb-1.4.1"
+          },
+          {
+            "title": "Requesting a Dhamma Talk",
+            "lang": "mixed",
+            "page": 124,
+            "link": "ccb-1.4.2"
+          },
+          {
+            "title": "Acknowledging the Teaching",
+            "lang": "mixed",
+            "page": 124,
+            "link": "ccb-1.4.3"
+          },
+          {
+            "title": "Requesting Paritta Chanting",
+            "lang": "mixed",
+            "page": 125,
+            "link": "ccb-1.4.4"
+          },
+          {
+            "title": "Requesting the Three Refuges & the Five Precepts",
+            "lang": "mixed",
+            "page": 126,
+            "link": "ccb-1.4.5"
+          },
+          {
+            "title": "Taking the Three Refuges",
+            "lang": "mixed",
+            "page": 133,
+            "link": "ccb-1.4.6"
+          },
+          {
+            "title": "The Five Precepts",
+            "lang": "mixed",
+            "page": 129,
+            "link": "ccb-1.4.7"
+          },
+          {
+            "title": "Requesting the Three Refuges & the Eight Precepts",
+            "lang": "mixed",
+            "page": 131,
+            "link": "ccb-1.4.8"
+          },
+          {
+            "title": "Taking the Three Refuges",
+            "lang": "mixed",
+            "page": 133,
+            "link": "ccb-1.4.9"
+          },
+          {
+            "title": "The Eight Precepts",
+            "lang": "mixed",
+            "page": 134,
+            "link": "ccb-1.4.10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "volume": 2,
+    "title": "Chanting Book · Volume Two",
+    "subTitle": "Suttas, Parittas and Funeral Chanting",
+    "parts": [
+      {
+        "title": "The Cardinal Suttas",
+        "part": 1,
+        "page": 1,
+        "chantSet": [
+          "ccb-2.1.1.1",
+          "ccb-2.1.1.2",
+          "ccb-2.1.2.1",
+          "ccb-2.1.2.2",
+          "ccb-2.1.3.1",
+          "ccb-2.1.3.2"
+        ],
+        "link": "ccb-2.1.1.1",
+        "chants": [
+          {
+            "title": "Setting in Motion the Wheel of Dhamma",
+            "lang": "en",
+            "page": 2,
+            "link": "ccb-2.1.1.1"
+          },
+          {
+            "title": "Dhammacakkappavattana Sutta",
+            "lang": "pi",
+            "page": 3,
+            "link": "ccb-2.1.1.2"
+          },
+          {
+            "title": "The Characteristic of Not-Self",
+            "lang": "en",
+            "page": 14,
+            "link": "ccb-2.1.2.1"
+          },
+          {
+            "title": "Anatta-lakkhaṇa Sutta",
+            "lang": "pi",
+            "page": 15,
+            "link": "ccb-2.1.2.2"
+          },
+          {
+            "title": "The Fire Sermon",
+            "lang": "en",
+            "page": 24,
+            "link": "ccb-2.1.3.1"
+          },
+          {
+            "title": "Āditta-pariyāya Sutta",
+            "lang": "pi",
+            "page": 25,
+            "link": "ccb-2.1.3.2"
+          }
+        ]
+      },
+      {
+        "title": "Parittas",
+        "part": 2,
+        "page": 31,
+        "chantSet": [
+          "ccb-2.2.1",
+          "ccb-2.2.2",
+          "ccb-2.2.3",
+          "ccb-2.2.4",
+          "ccb-2.2.5",
+          "ccb-2.2.6",
+          "ccb-2.2.7",
+          "ccb-2.2.8",
+          "ccb-2.2.9",
+          "ccb-2.2.10",
+          "ccb-2.2.11",
+          "ccb-2.2.12",
+          "ccb-2.2.13",
+          "ccb-2.2.14",
+          "ccb-2.2.15",
+          "ccb-2.2.16",
+          "ccb-2.2.17",
+          "ccb-2.2.18",
+          "ccb-2.2.19",
+          "ccb-2.2.20",
+          "ccb-2.2.21",
+          "ccb-2.2.22",
+          "ccb-2.2.23",
+          "ccb-2.2.24",
+          "ccb-2.2.25.1",
+          "ccb-2.2.25.2"
+        ],
+        "link": "ccb-2.2.1",
+        "chants": [
+          {
+            "title": "Invitation to the Devas",
+            "lang": "pi",
+            "page": 32,
+            "link": "ccb-2.2.1"
+          },
+          {
+            "title": "Pubba-bhāga-nama-kāra-pāṭho",
+            "lang": "pi",
+            "page": 33,
+            "link": "ccb-2.2.2"
+          },
+          {
+            "title": "Saraṇa-gamana-pāṭho",
+            "lang": "pi",
+            "page": 33,
+            "link": "ccb-2.2.3"
+          },
+          {
+            "title": "Nama-kāra-siddhi-gāthā",
+            "lang": "pi",
+            "page": 34,
+            "link": "ccb-2.2.4"
+          },
+          {
+            "title": "Namo-kāra-aṭṭhaka",
+            "lang": "pi",
+            "page": 35,
+            "link": "ccb-2.2.5"
+          },
+          {
+            "title": "Ratana-sutta",
+            "lang": "pi",
+            "page": 36,
+            "link": "ccb-2.2.6"
+          },
+          {
+            "title": "Maṅgala-sutta",
+            "lang": "pi",
+            "page": 38,
+            "link": "ccb-2.2.7"
+          },
+          {
+            "title": "Karaṇīya-metta-sutta",
+            "lang": "pi",
+            "page": 40,
+            "link": "ccb-2.2.8"
+          },
+          {
+            "title": "Yaṅkiñci ratanaṃ loke",
+            "lang": "pi",
+            "page": 41,
+            "link": "ccb-2.2.9"
+          },
+          {
+            "title": "Sambuddhe",
+            "lang": "pi",
+            "page": 42,
+            "link": "ccb-2.2.10"
+          },
+          {
+            "title": "Khandha-parittaṃ",
+            "lang": "pi",
+            "page": 43,
+            "link": "ccb-2.2.11"
+          },
+          {
+            "title": "Buddha-dhamma-saṅgha-guṇā",
+            "lang": "pi",
+            "page": 44,
+            "link": "ccb-2.2.12"
+          },
+          {
+            "title": "Mora-parittaṃ",
+            "lang": "pi",
+            "page": 45,
+            "link": "ccb-2.2.13"
+          },
+          {
+            "title": "Vaṭṭaka-parittaṃ",
+            "lang": "pi",
+            "page": 46,
+            "link": "ccb-2.2.14"
+          },
+          {
+            "title": "Abhaya-parittaṃ",
+            "lang": "pi",
+            "page": 46,
+            "link": "ccb-2.2.15"
+          },
+          {
+            "title": "Āṭānāṭiya-parittaṃ",
+            "lang": "pi",
+            "page": 47,
+            "link": "ccb-2.2.16"
+          },
+          {
+            "title": "Aṅguli-māla-parittaṃ",
+            "lang": "pi",
+            "page": 47,
+            "link": "ccb-2.2.17"
+          },
+          {
+            "title": "N’atthi me saraṇaṃ aññaṃ",
+            "lang": "pi",
+            "page": 48,
+            "link": "ccb-2.2.18"
+          },
+          {
+            "title": "Sakkatvā",
+            "lang": "pi",
+            "page": 48,
+            "link": "ccb-2.2.19"
+          },
+          {
+            "title": "Bojjh’aṅga-parittaṃ",
+            "lang": "pi",
+            "page": 49,
+            "link": "ccb-2.2.20"
+          },
+          {
+            "title": "Jaya-maṅgala-aṭṭha-gāthā",
+            "lang": "pi",
+            "page": 50,
+            "link": "ccb-2.2.21"
+          },
+          {
+            "title": "Devatā-uyyojana-gāthā",
+            "lang": "pi",
+            "page": 51,
+            "link": "ccb-2.2.22"
+          },
+          {
+            "title": "Jaya-parittaṃ",
+            "lang": "pi",
+            "page": 52,
+            "link": "ccb-2.2.23"
+          },
+          {
+            "title": "Bhavatu sabba-maṅgalaṃ",
+            "lang": "pi",
+            "page": 53,
+            "link": "ccb-2.2.24"
+          },
+          {
+            "title": "The Twenty-Eight Buddhas’ Protection",
+            "lang": "en",
+            "page": 54,
+            "link": "ccb-2.2.25.1"
+          },
+          {
+            "title": "Āṭānāṭiya Paritta (long version)",
+            "lang": "pi",
+            "page": 55,
+            "link": "ccb-2.2.25.2"
+          }
+        ]
+      },
+      {
+        "title": "Funeral Chanting",
+        "part": 3,
+        "page": 63,
+        "chantSet": [
+          "ccb-2.3.1",
+          "ccb-2.3.2",
+          "ccb-2.3.3",
+          "ccb-2.3.4",
+          "ccb-2.3.5"
+        ],
+        "link": "ccb-2.3.1",
+        "chants": [
+          {
+            "title": "Dhamma-saṅgaṇī-mātikā",
+            "lang": "pi",
+            "page": 64,
+            "link": "ccb-2.3.1"
+          },
+          {
+            "title": "Paṭṭhāna-mātikā-pāṭho",
+            "lang": "pi",
+            "page": 66,
+            "link": "ccb-2.3.2"
+          },
+          {
+            "title": "Vipassanā-bhūmi-pāṭho",
+            "lang": "pi",
+            "page": 67,
+            "link": "ccb-2.3.3"
+          },
+          {
+            "title": "Paṃsu-kūla for the dead",
+            "lang": "pi",
+            "page": 69,
+            "link": "ccb-2.3.4"
+          },
+          {
+            "title": "Paṃsu-kūla for the living",
+            "lang": "pi",
+            "page": 69,
+            "link": "ccb-2.3.5"
+          }
+        ]
+      },
+      {
+        "title": "Appendix",
+        "part": 4,
+        "page": 71,
+        "chantSet": ["ccb-2.4.1", "ccb-2.4.2"],
+        "link": "ccb-2.4.1",
+        "chants": [
+          {
+            "title": "Pāli Phonetics and Pronunciation",
+            "lang": "en",
+            "page": 72,
+            "link": "ccb-2.4.1"
+          },
+          {
+            "title": "Glossary of Pāli Terms",
+            "lang": "en",
+            "page": 75,
+            "link": "ccb-2.4.2"
+          }
+        ]
+      }
+    ]
+  }
+]
