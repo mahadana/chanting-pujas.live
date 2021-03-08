@@ -1437,99 +1437,71 @@
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "Its se꜓ekers and sa꜕ges, ce꜕lestial and hu꜕ma꜓n beings, he has by"
-            },
-            {
-              "type": "verse",
-              "html": "de꜕ep insight reve꜓aled the꜕ Truth."
+              "lang": "en",
+              "html": "Its se꜓ekers and sa꜕ges, ce꜕lestial and hu꜕ma꜓n beings, he has by de꜕ep insight reve꜓aled the꜕ Truth."
             }
           ]
         },
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
-              "html": "Yo dhammaṃ dese꜓si ā꜕di꜓-kalyāṇaṃ majjhe꜓-ka꜕lyāṇaṃ"
-            },
-            {
-              "type": "verse",
-              "html": "pa꜕riyosāna-k꜕alyāṇaṃ"
+              "lang": "pi",
+              "html": "Yo dhammaṃ dese꜓si ā꜕di꜓-kalyāṇaṃ majjhe꜓-ka꜕lyāṇaṃ pa꜕riyosāna-k꜕alyāṇaṃ"
             }
           ]
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "He has pointed out the Dha꜕mma: beautiful in the begi꜕nning,"
-            },
-            {
-              "type": "verse",
-              "html": "beautiful in the mi꜓ddle, beautiful i꜕n the꜓ end."
+              "lang": "en",
+              "html": "He has pointed out the Dha꜕mma: beautiful in the begi꜕nning, beautiful in the mi꜓ddle, beautiful i꜕n the꜓ end."
             }
           ]
         },
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
-              "html": "Sāttha꜓ṃ sa꜕byañjanaṃ kevala-pa꜕ripuṇṇaṃ pa꜕risuddhaṃ"
-            },
-            {
-              "type": "verse",
-              "html": "brahma-ca꜕ri꜓yaṃ pa꜕kāsesi"
+              "lang": "pi",
+              "html": "Sāttha꜓ṃ sa꜕byañjanaṃ kevala-pa꜕ripuṇṇaṃ pa꜕risuddhaṃ brahma-ca꜕ri꜓yaṃ pa꜕kāsesi"
             }
           ]
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "He has explained the Spi꜓ri꜓tu꜕al Life of co꜕mplete pu꜓rity in its"
-            },
-            {
-              "type": "verse",
-              "html": "e꜓ssence and conve꜕ntions."
+              "lang": "en",
+              "html": "He has explained the Spi꜓ri꜓tu꜕al Life of co꜕mplete pu꜓rity in its e꜓ssence and conve꜕ntions."
             }
           ]
         },
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
-              "html": "Tam-aha꜓ṃ bha꜕gavantaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ bha꜕gavantaṃ"
-            },
-            {
-              "type": "verse",
-              "html": "si꜕rasā꜓ na꜕māmi"
+              "lang": "pi",
+              "html": "Tam-aha꜓ṃ bha꜕gavantaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ bha꜕gavantaṃ si꜕rasā꜓ na꜕māmi"
             }
           ]
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "I chant m꜕y praise to꜕ the Ble꜓ssed One, I bow m꜕y head to꜕"
-            },
-            {
-              "type": "verse",
-              "html": "the꜓ Ble꜓ssed One."
+              "lang": "en",
+              "html": "I chant m꜕y praise to꜕ the Ble꜓ssed One, I bow m꜕y head to꜕ the꜓ Ble꜓ssed One."
             }
           ]
         },
