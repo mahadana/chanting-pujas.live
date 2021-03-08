@@ -1664,29 +1664,21 @@
         },
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
-              "html": "Tam-aha꜓ṃ dhammaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ dhammaṃ"
-            },
-            {
-              "type": "verse",
-              "html": "si꜕rasā꜓ na꜕māmi"
+              "lang": "pi",
+              "html": "Tam-aha꜓ṃ dhammaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ dhammaṃ si꜕rasā꜓ na꜕māmi"
             }
           ]
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "I chant m꜕y praise to꜕ this Te꜓aching, I bow m꜕y head"
-            },
-            {
-              "type": "verse",
-              "html": "to꜕ thi꜓s Truth."
+              "lang": "en",
+              "html": "I chant m꜕y praise to꜕ this Te꜓aching, I bow m꜕y head to꜕ thi꜓s Truth."
             }
           ]
         },
