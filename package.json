@@ -5,10 +5,11 @@
   "description": "Chanting data files for Pujas.live.",
   "scripts": {
     "build": "babel-node src/build.js",
+    "clean": "rm -rf .next",
     "dev": "next -p 3030",
     "eslint": "eslint --ext .js,.json .",
     "prettier": "prettier --write **/.eslintrc **/.prettierrc .",
-    "start": "next -p 3030"
+    "start": "bash -c 'test -d .next || npx next build; npx next start -p 3030'"
   },
   "repository": {
     "type": "git",
