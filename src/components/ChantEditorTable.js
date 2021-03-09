@@ -59,7 +59,7 @@ const useStyles = makeStyles((theme) => ({
 const focusNextButton = () => {
   const currentButton = document.activeElement;
   const nextButton =
-    currentButton?.parentNode?.parentNode?.nextSibling?.children?.[2]
+    currentButton?.parentNode?.parentNode?.nextSibling?.children?.[0]
       ?.children?.[0];
   if (nextButton) {
     nextButton.focus();
