@@ -824,10 +824,7 @@
           "title": "Appendix",
           "part": 4,
           "page": 71,
-          "chantSet": [
-            "ccb-2.4.1",
-            "ccb-2.4.2"
-          ],
+          "chantSet": ["ccb-2.4.1", "ccb-2.4.2"],
           "link": "ccb-2.4.1",
           "chants": [
             {
