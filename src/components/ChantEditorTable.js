@@ -100,7 +100,7 @@ const ChantEditorTable = ({ dispatch, state }) => {
     return () => {
       document.removeEventListener("keydown", onKeyDown);
     };
-  }, [mediaPlayer]);
+  }, [mediaPlayer, timing]);
 
   useEffect(() => {
     const interval = setInterval(() => {
