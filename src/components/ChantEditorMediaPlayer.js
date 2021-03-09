@@ -1,4 +1,3 @@
-import Button from "@material-ui/core/Button";
 import { makeStyles } from "@material-ui/core/styles";
 import _isFinite from "lodash/isFinite";
 import _isNil from "lodash/isNil";
@@ -15,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
   },
   audio: {
     height: "2.5rem",
-    width: "calc(100% - 5rem)",
+    width: "100%",
   },
 }));
 
@@ -45,7 +44,10 @@ const ChantEditorMediaPlayer = memo(
 
     useEffect(() => {
       const mediaPlayer = ref.current;
-      if (mediaPlayer) mediaPlayer.src = mediaUrl;
+      if (mediaPlayer) {
+        mediaPlayer.src = mediaUrl;
+        mediaPlayer.currentTime = timing?.start ?? 0;
+      }
     }, [mediaUrl]);
 
     useEffect(() => {
@@ -53,19 +55,8 @@ const ChantEditorMediaPlayer = memo(
       if (mediaPlayer) mediaPlayer.playbackRate = playbackRate;
     }, [playbackRate]);
 
-    const onClick = () => {
-      const mediaPlayer = ref.current;
-      if (mediaPlayer) {
-        mediaPlayer.currentTime = timing?.start ?? 0;
-        mediaPlayer.play();
-      }
-    };
-
     return (
       <div className={classes.root}>
-        <Button onClick={onClick} variant="outlined">
-          ↺
-        </Button>
         <audio autoPlay={false} className={classes.audio} controls ref={ref} />
       </div>
     );

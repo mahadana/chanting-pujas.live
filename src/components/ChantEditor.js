@@ -17,10 +17,10 @@ import {
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    marginBottom: "5rem",
+    margin: "1em 0 5em",
   },
   jsonButton: {
-    textAlign: "right",
+    float: "right",
   },
 }));
 
@@ -72,17 +72,17 @@ const ChantEditor = ({ chantId }) => {
   return (
     <div className={classes.root}>
       <Grid container spacing={2}>
-        <Grid item xs={10}>
+        <Grid item xs={12}>
+          <div className={classes.jsonButton}>
+            <ChantEditorJsonButton
+              dispatch={dispatch}
+              state={state}
+              variant="outlined"
+            >
+              JSON
+            </ChantEditorJsonButton>
+          </div>
           <Typography variant="h4">{`${chant.id} ${chant.title}`}</Typography>
-        </Grid>
-        <Grid className={classes.jsonButton} item xs={2}>
-          <ChantEditorJsonButton
-            dispatch={dispatch}
-            state={state}
-            variant="outlined"
-          >
-            JSON
-          </ChantEditorJsonButton>
         </Grid>
         <Grid item xs={12}>
           <ChantEditorTimingField

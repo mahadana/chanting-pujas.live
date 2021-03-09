@@ -1,3 +1,4 @@
+import Typography from "@material-ui/core/Typography";
 import { emphasize, fade, makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
 import _isFinite from "lodash/isFinite";
@@ -26,13 +27,18 @@ const useStyles = makeStyles((theme) => ({
       fontWeight: "bold",
     },
   },
+  help: {
+    margin: "1em 0",
+  },
   time: {
     minWidth: "4em",
     textAlign: "center",
     paddingRight: "0.5em",
+    font: "400 13.3333px Arial",
   },
   button: {
     backgroundColor: emphasize(theme.palette.background.default, 0.1),
+    minWidth: "4.5em",
     color: theme.palette.primary.main,
     border: "none",
     "&:focus": {
@@ -68,6 +74,35 @@ const ChantEditorTable = ({ dispatch, state }) => {
   const { mediaPlayer, timing } = state;
 
   useEffect(() => {
+    const onKeyDown = (event) => {
+      const tagName = String(event.target?.tagName).toLowerCase();
+      if (!mediaPlayer || tagName === "input" || tagName === "span") return;
+      const key = String(event.key).toLowerCase();
+      const currentTime = mediaPlayer.currentTime ?? 0;
+      if (key === "p") {
+        if (mediaPlayer.paused) {
+          mediaPlayer.play();
+        } else {
+          mediaPlayer.pause();
+        }
+      } else if (key === "r") {
+        mediaPlayer.currentTime = timing?.start ?? 0;
+      } else if (key === "arrowleft") {
+        mediaPlayer.currentTime = Math.max(currentTime - 2, 0);
+      } else if (key === "arrowright") {
+        mediaPlayer.currentTime = Math.min(
+          currentTime + 2,
+          mediaPlayer.duration
+        );
+      }
+    };
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [mediaPlayer]);
+
+  useEffect(() => {
     const interval = setInterval(() => {
       if (!mediaPlayer) return;
       const currentTime = mediaPlayer.currentTime;
@@ -101,28 +136,43 @@ const ChantEditorTable = ({ dispatch, state }) => {
 
   return (
     <>
+      <Typography className={classes.help} variant="body1">
+        Press <strong>P</strong> to <strong>p</strong>lay / <strong>p</strong>
+        ause, <strong>R</strong> to <strong>r</strong>ewind, <strong>←</strong>{" "}
+        <strong>→</strong> to skip back and forward.
+        <br />
+        When playing, click the{" "}
+        <button autoFocus className={classes.button}>
+          -
+        </button>{" "}
+        button to record the time.
+        <br />
+        Press <strong>SPACE</strong> or <strong>ENTER</strong> to record the
+        time for the following verse.
+        <br />
+        Press <strong>TAB</strong>, <strong>SHIFT + TAB</strong> to focus the
+        previous and following verses.
+      </Typography>
       <table className={classes.root}>
         <thead>
           <tr>
             <th className={classes.time}>Start</th>
             <th className={classes.time}>End</th>
-            <th></th>
             <th>Verse</th>
           </tr>
         </thead>
         <tbody>
           {timing?.nodes?.map?.((node, index) => (
             <tr key={index}>
-              <td className={classes.time}>{timeToHuman(node.start, 1)}</td>
-              <td className={classes.time}>{timeToHuman(node.end, 1)}</td>
-              <td>
+              <td className={classes.time}>
                 <button
                   className={classes.button}
                   onClick={(event) => onClickEdit(event, index)}
                 >
-                  ✎
+                  {timeToHuman(node.start, 1) || "-"}
                 </button>
               </td>
+              <td className={classes.time}>{timeToHuman(node.end, 1)}</td>
               <td>
                 <span
                   className={clsx(
