@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^(theme)$" }],
+    "react/no-unescaped-entities": "off",
+    "react/prop-types": "off"
+  }
+}

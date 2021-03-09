@@ -1,0 +1,41 @@
+body {
+  margin: 1em;
+  /* https://pixy.org/84069/ */
+  background-color: rgba(0, 0, 0, 0.9);
+  background-blend-mode: darken;
+  background-image: url("monk.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 14px;
+  color: rgb(223, 212, 149);
+}
+
+a {
+  color: rgb(223, 212, 149);
+  text-decoration: none;
+}
+
+h1,
+h2 {
+  width: 100%;
+  text-align: center;
+}
+
+table td:last-child {
+  max-width: 30vw;
+}
+
+#chants {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+#chants > div {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}

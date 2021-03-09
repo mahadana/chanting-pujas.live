@@ -6,15 +6,26 @@
   "extends": [
     "eslint:recommended",
     "plugin:json/recommended",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "plugin:react/recommended"
   ],
+  "globals": {
+    "React": "writable"
+  },
   "parserOptions": {
     "ecmaVersion": 2020,
+    "ecmaFeatures": {
+      "jsx": true
+    },
     "sourceType": "module"
   },
-  "plugins": ["prettier"],
+  "plugins": ["prettier", "react"],
   "rules": {
-    "max-len": ["error", { "code": 80 }],
     "prettier/prettier": ["error"]
+  },
+  "settings": {
+    "react": {
+      "version": "17"
+    }
   }
 }
