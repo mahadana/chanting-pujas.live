@@ -1,4 +1,4 @@
-import { emphasize, makeStyles } from "@material-ui/core/styles";
+import { emphasize, fade, makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
 import _isFinite from "lodash/isFinite";
 import { useCallback, useEffect, useState } from "react";
@@ -36,14 +36,14 @@ const useStyles = makeStyles((theme) => ({
     color: theme.palette.primary.main,
     border: "none",
     "&:focus": {
-      backgroundColor: "rgba(255, 255, 0, 0.2)",
+      backgroundColor: fade(theme.palette.primary.main, 0.1),
     },
     "&:hover": {
-      backgroundColor: "rgba(255, 255, 0, 0.3)",
+      backgroundColor: fade(theme.palette.primary.main, 0.3),
     },
   },
   active: {
-    backgroundColor: "rgba(255, 255, 0, 0.1)",
+    backgroundColor: fade(theme.palette.primary.main, 0.1),
   },
   verse: {
     fontFamily: "Gentium Incantation",
