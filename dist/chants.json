@@ -1976,31 +1976,23 @@
       "children": [
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
               "leader": true,
-              "html": "[ Ha꜓nda mayaṃ ratanattaya-paṇāma-gāthā꜓yo c’eva"
-            },
-            {
-              "type": "verse",
-              "html": "sa꜓ṃvega-parikittana-pāṭhañca꜕ bhaṇāmase ]"
+              "lang": "pi",
+              "html": "[ Ha꜓nda mayaṃ ratanattaya-paṇāma-gāthā꜓yo c’eva sa꜓ṃvega-parikittana-pāṭhañca꜕ bhaṇāmase ]"
             }
           ]
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
               "leader": true,
-              "html": "[ No꜓w let us chant our salutation to the Tri꜕ple Gem and a passage"
-            },
-            {
-              "type": "verse",
-              "html": "to arouse u꜓rgency. ]"
+              "lang": "en",
+              "html": "[ No꜓w let us chant our salutation to the Tri꜕ple Gem and a passage to arouse u꜓rgency. ]"
             }
           ]
         },
@@ -2196,15 +2188,11 @@
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "Those who have reali꜕zed peace, awakened after the꜕"
-            },
-            {
-              "type": "verse",
-              "html": "Acco꜓mplished One,"
+              "lang": "en",
+              "html": "Those who have reali꜕zed peace, awakened after the꜕ Acco꜓mplished One,"
             }
           ]
         },
@@ -2250,15 +2238,11 @@
         },
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
-              "html": "Iccevam-ekanta꜕bhi꜓pūja꜕-neyya꜕kaṃ vatthuttayaṃ"
-            },
-            {
-              "type": "verse",
-              "html": "vanda꜕ya꜕tābhi꜕saṅkha꜕taṃ"
+              "lang": "pi",
+              "html": "Iccevam-ekanta꜕bhi꜓pūja꜕-neyya꜕kaṃ vatthuttayaṃ vanda꜕ya꜕tābhi꜕saṅkha꜕taṃ"
             }
           ]
         },
@@ -2664,15 +2648,11 @@
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "The꜕ Blessed One in꜕ his li꜓fetime frequently i꜕nstructed his disci꜓ples"
-            },
-            {
-              "type": "verse",
-              "html": "in just thi꜕s way."
+              "lang": "en",
+              "html": "The꜕ Blessed One in꜕ his li꜓fetime frequently i꜕nstructed his disci꜓ples in just thi꜕s way."
             }
           ]
         },
@@ -2998,15 +2978,11 @@
         },
         {
           "type": "group",
-          "lang": "pi",
           "children": [
             {
               "type": "verse",
-              "html": "Appeva nāmi꜓massa꜕ kevalassa꜕ dukkha-kkha꜓ndhassa꜕ anta꜕kiri꜓yā"
-            },
-            {
-              "type": "verse",
-              "html": "paññāyethā’ti"
+              "lang": "pi",
+              "html": "Appeva nāmi꜓massa꜕ kevalassa꜕ dukkha-kkha꜓ndhassa꜕ anta꜕kiri꜓yā paññāyethā’ti"
             }
           ]
         },
@@ -3019,118 +2995,6 @@
               "html": "Let us all a꜕spire to co꜕mplete fre꜓edom from su꜕ffering."
             }
           ]
-        },
-        {
-          "type": "aside",
-          "html": "The following is chanted only by the monks and nuns."
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "pi",
-              "html": "Ci꜓ra꜓-pari꜕nibbutampi꜓ taṃ bha꜕gava꜓ntaṃ uddissa a꜕raha꜓ntaṃ sammāsambuddhaṃ"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "en",
-              "html": "Remembering the Ble꜕ssed One, the꜕ Noble Lord, a꜕nd Perfectly Enli꜓ghtened One, who long ago attained Pa꜕ri꜕ni꜕bbā꜕na,"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "pi",
-              "html": "Saddhā a꜕gārasmā anagāri꜓yaṃ pabba꜕ji꜕tā"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "en",
-              "html": "We have gone forth wi꜕th faith from home to ho꜓melessness,"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "pi",
-              "html": "Tasmi꜓ṃ bha꜕gavati brahma-ca꜕ri꜓yaṃ ca꜕rāma"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "en",
-              "html": "And like the Ble꜕ssed One, we practise the Ho꜓ly꜕ Life,"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "pi",
-              "html": "Bhikkhū꜓naṃ/Sīladharā꜓naṃ si꜓kkhāsā꜕jīva꜕-samāpannā"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "en",
-              "html": "Being fully e꜕quipped with the꜕ bhikkhus’/nuns’ sy꜓stem of tra꜕ining."
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "children": [
-            {
-              "type": "verse",
-              "lang": "pi",
-              "html": "Taṃ no brahma-ca꜕ri꜓yaṃ imassa꜕ kevalassa꜕ dukkha-kkha꜓ndhassa꜕ anta꜕kiri꜓yāya sa꜓ṃva꜓tta꜕tu"
-            }
-          ]
-        },
-        {
-          "type": "group",
-          "lang": "en",
-          "children": [
-            {
-              "type": "verse",
-              "html": "May this Ho꜕ly Life lead us to the꜕ end of this who꜓le mass"
-            },
-            {
-              "type": "verse",
-              "html": "of su꜕ffering."
-            }
-          ]
-        },
-        {
-          "type": "aside",
-          "html": "An alternative version of the preceding section, which can be chanted by laypeople as well."
         },
         {
           "type": "group",
@@ -3184,15 +3048,11 @@
         },
         {
           "type": "group",
-          "lang": "en",
           "children": [
             {
               "type": "verse",
-              "html": "Attentively we fo꜓llow the pathway of that Ble꜕ssed One, with <u>all</u> of"
-            },
-            {
-              "type": "verse",
-              "html": "our mi꜓ndfulness a꜕nd strength."
+              "lang": "en",
+              "html": "Attentively we fo꜓llow the pathway of that Ble꜕ssed One, with <u>all</u> of our mi꜓ndfulness a꜕nd strength."
             }
           ]
         },
