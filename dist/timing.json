@@ -633,5 +633,112 @@
         "start": 448.3
       }
     ]
+  },
+  {
+    "id": "ccb-1.2.1.7",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.2.1-evening-chanting-pali-0.mp3",
+    "start": 451,
+    "end": 631,
+    "nodes": [
+      {
+        "start": 454.7
+      },
+      {
+        "start": 460
+      },
+      {
+        "start": 465.8
+      },
+      {
+        "start": 471.9
+      },
+      {
+        "start": 479
+      },
+      {
+        "start": 485.9
+      },
+      {
+        "start": 493.6
+      },
+      {
+        "start": 498.6
+      },
+      {
+        "start": 507.6
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.2.1.8",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.2.1-evening-chanting-pali-0.mp3",
+    "start": 513,
+    "end": 631,
+    "nodes": [
+      {
+        "start": 513.6
+      },
+      {
+        "start": 519.1
+      },
+      {
+        "start": 525.1
+      },
+      {
+        "start": 531
+      },
+      {
+        "start": 536.9
+      },
+      {
+        "start": 542.7
+      },
+      {
+        "start": 550.6
+      },
+      {
+        "start": 557.8
+      },
+      {
+        "start": 565.5
+      },
+      {
+        "start": 572.7
+      },
+      {
+        "start": 579.8
+      },
+      {
+        "start": 587.4
+      },
+      {
+        "start": 594.4
+      },
+      {
+        "start": 601.7
+      },
+      {
+        "start": 608.8
+      },
+      {
+        "start": 616.1
+      },
+      {
+        "start": 618
+      },
+      {
+        "start": 621.1
+      },
+      {
+        "start": 623.9
+      },
+      {
+        "start": 626.8
+      },
+      {
+        "start": 631,
+        "end": 631
+      }
+    ]
   }
 ]
