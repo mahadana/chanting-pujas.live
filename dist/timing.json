@@ -3,375 +3,779 @@
     "id": "ccb-1.1.1",
     "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
     "start": 0,
-    "end": 199,
+    "end": 201,
     "nodes": [
       {
-        "start": 2
+        "start": 1.6
       },
       {
-        "start": 12.6
+        "start": 11.1
       },
       {
-        "start": 20.6
+        "start": 18.6
       },
       {
-        "start": 27.1
+        "start": 25.2
       },
       {
-        "start": 31.8
+        "start": 30
       },
       {
-        "start": 39.2
+        "start": 37.5
       },
       {
-        "start": 44.8
+        "start": 43.7
       },
       {
-        "start": 51.5
+        "start": 50.9
       },
       {
-        "start": 56.8
+        "start": 56.4
       },
       {
-        "start": 67.5
+        "start": 67.7
       },
       {
         "start": 73
       },
       {
-        "start": 80.6
+        "start": 80.9
       },
       {
-        "start": 88.6
+        "start": 88.8
       },
       {
-        "start": 94.3
+        "start": 94.5
       },
       {
-        "start": 99.8
+        "start": 99.9
       },
       {
-        "start": 110
+        "start": 110.1
       },
       {
-        "start": 114.4
+        "start": 114.8
       },
       {
-        "start": 121.1
+        "start": 121.7
       },
       {
-        "start": 127.7
+        "start": 128.2
       },
       {
-        "start": 134
+        "start": 134.6
       },
       {
-        "start": 139.4
+        "start": 140.6
       },
       {
-        "start": 145
+        "start": 146.5
       },
       {
-        "start": 151.2
+        "start": 152.7
       },
       {
-        "start": 155.5
+        "start": 156.3
       },
       {
-        "start": 162.4
+        "start": 163
       },
       {
-        "start": 167.1
+        "start": 168.2
       },
       {
-        "start": 170.5
+        "start": 171.6
       },
       {
-        "start": 174
+        "start": 175
       },
       {
-        "start": 177.3
+        "start": 179.1
       },
       {
-        "start": 185.2
+        "start": 187.2
       },
       {
-        "start": 190.5
+        "start": 192.5
       },
       {
-        "start": 193.2
+        "start": 195.3
       },
       {
-        "start": 196.5,
-        "end": 198
+        "start": 198.9
       }
     ]
   },
   {
     "id": "ccb-1.1.2",
     "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
-    "start": 199,
-    "end": 264,
+    "start": 201,
+    "end": 263.4,
     "nodes": [
       {
-        "start": 200.7
+        "start": 203.2
       },
       {
-        "start": 208.3
+        "start": 212.4,
+        "end": 212.4
       },
       {
-        "start": 213.4
+        "start": 212.4
       },
       {
-        "start": 241,
-        "end": 241
+        "start": 242.4,
+        "end": 242.4
       },
       {
-        "start": 241.8
+        "start": 242.4
       },
       {
-        "start": 263,
-        "end": 263
+        "start": 263.4,
+        "end": 263.4
       }
     ]
   },
   {
     "id": "ccb-1.1.3",
     "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
-    "start": 264,
-    "end": 431,
+    "start": 263.4,
+    "end": 427,
     "nodes": [
       {
-        "start": 264.5
+        "start": 263.4
       },
       {
-        "start": 270.5
+        "start": 269.6,
+        "end": 269.6
       },
       {
-        "start": 275.5
+        "start": 269.6
       },
       {
-        "start": 284.7
+        "start": 277.7
       },
       {
-        "start": 291.9
+        "start": 284.6
       },
       {
-        "start": 296.1
+        "start": 288.6
       },
       {
-        "start": 300.8
+        "start": 293.5
       },
       {
-        "start": 302.9
+        "start": 295.1
       },
       {
-        "start": 305.1
+        "start": 297.5
       },
       {
-        "start": 307.3
+        "start": 299.7
       },
       {
-        "start": 310
+        "start": 302.6
       },
       {
-        "start": 315.2
+        "start": 307.5
       },
       {
-        "start": 319.7
+        "start": 311.9
       },
       {
-        "start": 323.7
+        "start": 315.8
       },
       {
-        "start": 327.4
+        "start": 319.5
       },
       {
-        "start": 330.1
+        "start": 322.1
       },
       {
-        "start": 333.2
+        "start": 325
       },
       {
-        "start": 340.6
+        "start": 332.4
       },
       {
-        "start": 346.2
+        "start": 338
       },
       {
-        "start": 358.3
+        "start": 350.4
       },
       {
-        "start": 368.5
+        "start": 360.8
       },
       {
-        "start": 380.2
+        "start": 372.6
       },
       {
-        "start": 390.6
+        "start": 383.4
       },
       {
-        "start": 401.5
+        "start": 394.8
       },
       {
-        "start": 410.1
+        "start": 403.6
       },
       {
-        "start": 420.7
+        "start": 414.9
       },
       {
-        "start": 428.1,
-        "end": 430
+        "start": 423.9,
+        "end": 426
       }
     ]
   },
   {
     "id": "ccb-1.1.4",
     "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
-    "start": 431,
-    "end": 506,
+    "start": 427,
+    "end": 499,
     "nodes": [
       {
-        "start": 433
+        "start": 429.2
       },
       {
-        "start": 439.7
+        "start": 436.8,
+        "end": 436.8
       },
       {
-        "start": 444.5
+        "start": 436.8
       },
       {
-        "start": 452.4
+        "start": 444.2
+      },
+      {
+        "start": 449.5
+      },
+      {
+        "start": 451.8
+      },
+      {
+        "start": 454.5
+      },
+      {
+        "start": 456.5
       },
       {
         "start": 457.9
       },
       {
-        "start": 460.1
+        "start": 460.4
       },
       {
-        "start": 462.9
+        "start": 464
       },
       {
-        "start": 465.1
+        "start": 466.6
       },
       {
-        "start": 466.7
+        "start": 468.7
       },
       {
-        "start": 469.2
+        "start": 473.3
       },
       {
-        "start": 472.7
+        "start": 478.3
       },
       {
-        "start": 475.1
+        "start": 488.3
       },
       {
-        "start": 477.3
-      },
-      {
-        "start": 481.8
-      },
-      {
-        "start": 486.8
-      },
-      {
-        "start": 496.6
-      },
-      {
-        "start": 504,
-        "end": 505
+        "start": 496.7
       }
     ]
   },
   {
     "id": "ccb-1.1.5",
     "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
-    "start": 506,
-    "end": 642,
+    "start": 499,
+    "end": 647,
     "nodes": [
       {
-        "start": 508.1
+        "start": 500.8
       },
       {
-        "start": 515.1
+        "start": 507.7,
+        "end": 507.7
       },
       {
-        "start": 520.1
+        "start": 507.7
       },
       {
-        "start": 528.9
+        "start": 516.3
       },
       {
-        "start": 535.1
+        "start": 522.5
       },
       {
-        "start": 541.7
+        "start": 529
       },
       {
-        "start": 544.8
+        "start": 531.9
       },
       {
-        "start": 551.5
+        "start": 538.9
       },
       {
-        "start": 554.7
+        "start": 542.3
       },
       {
-        "start": 561.9
+        "start": 549.5
       },
       {
-        "start": 565.6
+        "start": 553.4
       },
       {
-        "start": 573.4
+        "start": 561.6
       },
       {
-        "start": 579.3
+        "start": 567.3
       },
       {
-        "start": 584.2
+        "start": 572.5
       },
       {
-        "start": 588.4
+        "start": 577
       },
       {
-        "start": 590.6
+        "start": 579.6
       },
       {
-        "start": 593.6
+        "start": 582.7
       },
       {
-        "start": 595.8
+        "start": 585.1
       },
       {
-        "start": 598.6
+        "start": 588
       },
       {
-        "start": 600.8
+        "start": 590.3
       },
       {
-        "start": 603.2
+        "start": 592.7
       },
       {
-        "start": 606.1
+        "start": 595.9
       },
       {
-        "start": 608.1
+        "start": 598.2
       },
       {
-        "start": 612.9
+        "start": 602.8
       },
       {
-        "start": 619.9
+        "start": 609.8
       },
       {
-        "start": 630
+        "start": 620.2
       },
       {
-        "start": 637.7,
-        "end": 640
+        "start": 628,
+        "end": 631
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.1.6",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
+    "start": 646,
+    "end": 1198,
+    "nodes": [
+      {
+        "start": 647.6
+      },
+      {
+        "start": 658.3,
+        "end": 658.3
+      },
+      {
+        "start": 658.3
+      },
+      {
+        "start": 664.5
+      },
+      {
+        "start": 670.7
+      },
+      {
+        "start": 676.3
+      },
+      {
+        "start": 680.4
+      },
+      {
+        "start": 685.7
+      },
+      {
+        "start": 689.8
+      },
+      {
+        "start": 695.5
+      },
+      {
+        "start": 700.3
+      },
+      {
+        "start": 705.5
+      },
+      {
+        "start": 709.5
+      },
+      {
+        "start": 715
+      },
+      {
+        "start": 720.6
+      },
+      {
+        "start": 725.9
+      },
+      {
+        "start": 729.7
+      },
+      {
+        "start": 735.4
+      },
+      {
+        "start": 740.1
+      },
+      {
+        "start": 745.9
+      },
+      {
+        "start": 751.3
+      },
+      {
+        "start": 756.6
+      },
+      {
+        "start": 763.4
+      },
+      {
+        "start": 768.9
+      },
+      {
+        "start": 773.2
+      },
+      {
+        "start": 778.9
+      },
+      {
+        "start": 783.7
+      },
+      {
+        "start": 793.8
+      },
+      {
+        "start": 799.4
+      },
+      {
+        "start": 809.5
+      },
+      {
+        "start": 816.6
+      },
+      {
+        "start": 825.2
+      },
+      {
+        "start": 837.6
+      },
+      {
+        "start": 851.4
+      },
+      {
+        "start": 866.4
+      },
+      {
+        "start": 872.4
+      },
+      {
+        "start": 876
+      },
+      {
+        "start": 878.5
+      },
+      {
+        "start": 880.5
+      },
+      {
+        "start": 882.9
+      },
+      {
+        "start": 885.1
+      },
+      {
+        "start": 887.7
+      },
+      {
+        "start": 890.1
+      },
+      {
+        "start": 897.2
+      },
+      {
+        "start": 902.8
+      },
+      {
+        "start": 907.4
+      },
+      {
+        "start": 911.6
+      },
+      {
+        "start": 915.8
+      },
+      {
+        "start": 919.6
+      },
+      {
+        "start": 923.9
+      },
+      {
+        "start": 927.6
+      },
+      {
+        "start": 933.7
+      },
+      {
+        "start": 939.1
+      },
+      {
+        "start": 941.3
+      },
+      {
+        "start": 944
+      },
+      {
+        "start": 947.2
+      },
+      {
+        "start": 949.7
+      },
+      {
+        "start": 953.2
+      },
+      {
+        "start": 955.7
+      },
+      {
+        "start": 959
+      },
+      {
+        "start": 961.7
+      },
+      {
+        "start": 965.3
+      },
+      {
+        "start": 968.6
+      },
+      {
+        "start": 972.3
+      },
+      {
+        "start": 975.7
+      },
+      {
+        "start": 978.4
+      },
+      {
+        "start": 982.1
+      },
+      {
+        "start": 990.1
+      },
+      {
+        "start": 998.8
+      },
+      {
+        "start": 1009.6
+      },
+      {
+        "start": 1013.3
+      },
+      {
+        "start": 1015.9
+      },
+      {
+        "start": 1018.5
+      },
+      {
+        "start": 1021.4
+      },
+      {
+        "start": 1023.9
+      },
+      {
+        "start": 1026.5
+      },
+      {
+        "start": 1029.3
+      },
+      {
+        "start": 1032
+      },
+      {
+        "start": 1035.4
+      },
+      {
+        "start": 1038.3
+      },
+      {
+        "start": 1041.7
+      },
+      {
+        "start": 1044.2
+      },
+      {
+        "start": 1046.6
+      },
+      {
+        "start": 1049.2
+      },
+      {
+        "start": 1051.7
+      },
+      {
+        "start": 1054.1
+      },
+      {
+        "start": 1056.8
+      },
+      {
+        "start": 1059.6
+      },
+      {
+        "start": 1062.8
+      },
+      {
+        "start": 1065.6
+      },
+      {
+        "start": 1068.6
+      },
+      {
+        "start": 1072.3
+      },
+      {
+        "start": 1075.3
+      },
+      {
+        "start": 1079
+      },
+      {
+        "start": 1084.2
+      },
+      {
+        "start": 1091.2
+      },
+      {
+        "start": 1095.6
+      },
+      {
+        "start": 1104.7
+      },
+      {
+        "start": 1110
+      },
+      {
+        "start": 1114
+      },
+      {
+        "start": 1118.2
+      },
+      {
+        "start": 1128.9
+      },
+      {
+        "start": 1133.8
+      },
+      {
+        "start": 1140.6
+      },
+      {
+        "start": 1147.4
+      },
+      {
+        "start": 1150.3
+      },
+      {
+        "start": 1153.9
+      },
+      {
+        "start": 1164.5
+      },
+      {
+        "start": 1173.5
+      },
+      {
+        "start": 1176.2
+      },
+      {
+        "start": 1180.2
+      },
+      {
+        "start": 1189.2,
+        "end": 1193.6
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.1.7",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
+    "start": 1198,
+    "end": 1273.1,
+    "nodes": [
+      {
+        "start": 1199.6
+      },
+      {
+        "start": 1207
+      },
+      {
+        "start": 1212.9
+      },
+      {
+        "start": 1218.7
+      },
+      {
+        "start": 1225,
+        "end": 1227
+      },
+      {
+        "start": 1228
+      },
+      {
+        "start": 1234.4
+      },
+      {
+        "start": 1239.4
+      },
+      {
+        "start": 1242.6
+      },
+      {
+        "start": 1246,
+        "end": 1248
+      },
+      {
+        "start": 1249.5
+      },
+      {
+        "start": 1257.1
+      },
+      {
+        "start": 1262.4
+      },
+      {
+        "start": 1265.2
+      },
+      {
+        "start": 1268.9,
+        "end": 1270.9
       }
     ]
   },
