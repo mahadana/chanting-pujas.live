@@ -1,90 +1,91 @@
 {
   "id": "ccb-1.1.5",
   "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
-  "start": 506,
-  "end": 642,
+  "start": 499,
+  "end": 647,
   "nodes": [
     {
-      "start": 508.1
+      "start": 500.8
     },
     {
-      "start": 515.1
+      "start": 507.7,
+      "end": 507.7
     },
     {
-      "start": 520.1
+      "start": 507.7
     },
     {
-      "start": 528.9
+      "start": 516.3
     },
     {
-      "start": 535.1
+      "start": 522.5
     },
     {
-      "start": 541.7
+      "start": 529
     },
     {
-      "start": 544.8
+      "start": 531.9
     },
     {
-      "start": 551.5
+      "start": 538.9
     },
     {
-      "start": 554.7
+      "start": 542.3
     },
     {
-      "start": 561.9
+      "start": 549.5
     },
     {
-      "start": 565.6
+      "start": 553.4
     },
     {
-      "start": 573.4
+      "start": 561.6
     },
     {
-      "start": 579.3
+      "start": 567.3
     },
     {
-      "start": 584.2
+      "start": 572.5
     },
     {
-      "start": 588.4
+      "start": 577
     },
     {
-      "start": 590.6
+      "start": 579.6
     },
     {
-      "start": 593.6
+      "start": 582.7
     },
     {
-      "start": 595.8
+      "start": 585.1
     },
     {
-      "start": 598.6
+      "start": 588
     },
     {
-      "start": 600.8
+      "start": 590.3
     },
     {
-      "start": 603.2
+      "start": 592.7
     },
     {
-      "start": 606.1
+      "start": 595.9
     },
     {
-      "start": 608.1
+      "start": 598.2
     },
     {
-      "start": 612.9
+      "start": 602.8
     },
     {
-      "start": 619.9
+      "start": 609.8
     },
     {
-      "start": 630
+      "start": 620.2
     },
     {
-      "start": 637.7,
-      "end": 640
+      "start": 628,
+      "end": 631
     }
   ]
 }

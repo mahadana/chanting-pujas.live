@@ -1,28 +1,29 @@
 {
   "id": "ccb-1.1.2",
   "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3",
-  "start": 199,
-  "end": 264,
+  "start": 201,
+  "end": 263.4,
   "nodes": [
     {
-      "start": 200.7
+      "start": 203.2
     },
     {
-      "start": 208.3
+      "start": 212.4,
+      "end": 212.4
     },
     {
-      "start": 213.4
+      "start": 212.4
     },
     {
-      "start": 241,
-      "end": 241
+      "start": 242.4,
+      "end": 242.4
     },
     {
-      "start": 241.8
+      "start": 242.4
     },
     {
-      "start": 263,
-      "end": 263
+      "start": 263.4,
+      "end": 263.4
     }
   ]
 }
