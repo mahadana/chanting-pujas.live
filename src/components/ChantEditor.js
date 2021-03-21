@@ -89,7 +89,7 @@ const ChantEditor = ({ chantId }) => {
             dispatch={dispatch}
             fieldName="mediaUrl"
             fullWidth
-            helperText="Example: https://www.abhayagiri.org/media/chanting/audio/morning.mp3"
+            helperText="Example: https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.1-morning-chanting-0.mp3"
             label="Media URL"
             size="small"
             state={state}
