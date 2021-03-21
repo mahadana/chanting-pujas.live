@@ -1,0 +1,23 @@
+{
+  "id": "ccb-1.2.1.3",
+  "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.2.1-evening-chanting-pali-0.mp3",
+  "start": 146,
+  "end": 188,
+  "nodes": [
+    {
+      "start": 146.6
+    },
+    {
+      "start": 152.2
+    },
+    {
+      "start": 162.9
+    },
+    {
+      "start": 170
+    },
+    {
+      "start": 176.7
+    }
+  ]
+}
