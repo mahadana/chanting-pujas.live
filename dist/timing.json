@@ -1144,5 +1144,712 @@
         "end": 631
       }
     ]
+  },
+  {
+    "id": "ccb-1.3.1.2",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.1.2-verses-of-sharing-and-aspiration-english-0.mp3",
+    "start": 0,
+    "end": 142,
+    "nodes": [
+      {
+        "start": 1.1
+      },
+      {
+        "start": 7.2
+      },
+      {
+        "start": 13.8
+      },
+      {
+        "start": 20.8
+      },
+      {
+        "start": 26.6
+      },
+      {
+        "start": 34.9
+      },
+      {
+        "start": 40.1
+      },
+      {
+        "start": 49.9
+      },
+      {
+        "start": 56.1
+      },
+      {
+        "start": 61.9
+      },
+      {
+        "start": 69.9
+      },
+      {
+        "start": 75.3
+      },
+      {
+        "start": 79
+      },
+      {
+        "start": 84.2
+      },
+      {
+        "start": 88
+      },
+      {
+        "start": 92.2
+      },
+      {
+        "start": 98.9
+      },
+      {
+        "start": 105.4
+      },
+      {
+        "start": 113.3
+      },
+      {
+        "start": 117.9
+      },
+      {
+        "start": 122.8
+      },
+      {
+        "start": 127.7
+      },
+      {
+        "start": 132.2
+      },
+      {
+        "start": 136.5
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.2",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.2-verses-on-the-sharing-of-merit-0.mp3",
+    "start": 0,
+    "end": 159.6,
+    "nodes": [
+      {
+        "start": 1.3
+      },
+      {
+        "start": 7.7
+      },
+      {
+        "start": 15.1
+      },
+      {
+        "start": 22.5
+      },
+      {
+        "start": 26
+      },
+      {
+        "start": 29.1
+      },
+      {
+        "start": 32
+      },
+      {
+        "start": 35
+      },
+      {
+        "start": 42.4
+      },
+      {
+        "start": 50
+      },
+      {
+        "start": 53.3
+      },
+      {
+        "start": 57.1
+      },
+      {
+        "start": 60.8
+      },
+      {
+        "start": 64
+      },
+      {
+        "start": 71.1
+      },
+      {
+        "start": 78.5
+      },
+      {
+        "start": 81.9
+      },
+      {
+        "start": 86.1
+      },
+      {
+        "start": 90.2
+      },
+      {
+        "start": 93.6
+      },
+      {
+        "start": 100.4
+      },
+      {
+        "start": 108
+      },
+      {
+        "start": 112
+      },
+      {
+        "start": 115.1
+      },
+      {
+        "start": 118.5
+      },
+      {
+        "start": 121.4
+      },
+      {
+        "start": 128.2
+      },
+      {
+        "start": 135.1
+      },
+      {
+        "start": 142
+      },
+      {
+        "start": 145.4
+      },
+      {
+        "start": 148.7
+      },
+      {
+        "start": 152
+      },
+      {
+        "start": 155.5
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.4.1",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.4.1-reflection-on-universal-well-being-pali-0.mp3",
+    "start": 0,
+    "end": 82.6,
+    "nodes": [
+      {},
+      {
+        "start": 0.7
+      },
+      {
+        "start": 4.3
+      },
+      {
+        "start": 8
+      },
+      {
+        "start": 11.1
+      },
+      {
+        "start": 14.7
+      },
+      {
+        "start": 17.7
+      },
+      {
+        "start": 22
+      },
+      {
+        "start": 26.4
+      },
+      {
+        "start": 30.9
+      },
+      {
+        "start": 35.9
+      },
+      {
+        "start": 40.3
+      },
+      {
+        "start": 46.4
+      },
+      {
+        "start": 52.2
+      },
+      {
+        "start": 58.8
+      },
+      {
+        "start": 69.6
+      },
+      {
+        "start": 73.2
+      },
+      {
+        "start": 77.3
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.4.2",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.4.2-reflection-on-universal-well-being-english-0.mp3",
+    "start": 0,
+    "end": 108.2,
+    "nodes": [
+      {},
+      {
+        "start": 1.1
+      },
+      {
+        "start": 6.6
+      },
+      {
+        "start": 11.5
+      },
+      {
+        "start": 15.7
+      },
+      {
+        "start": 19.6
+      },
+      {
+        "start": 23.8
+      },
+      {
+        "start": 31.1
+      },
+      {
+        "start": 36.1
+      },
+      {
+        "start": 40
+      },
+      {
+        "start": 44.1
+      },
+      {
+        "start": 50
+      },
+      {
+        "start": 55.5
+      },
+      {
+        "start": 61.7
+      },
+      {
+        "start": 70
+      },
+      {
+        "start": 73.7
+      },
+      {
+        "start": 82.5
+      },
+      {
+        "start": 89.9
+      },
+      {
+        "start": 94.7
+      },
+      {
+        "start": 98.1
+      },
+      {
+        "start": 101.8
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.5.1",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.5.1-suffusion-with-the-divine-abidings-pali-0.mp3",
+    "start": 0,
+    "end": 174.2,
+    "nodes": [
+      {
+        "start": 1
+      },
+      {
+        "start": 7
+      },
+      {
+        "start": 17.8
+      },
+      {
+        "start": 23.4
+      },
+      {
+        "start": 30.2
+      },
+      {
+        "start": 37.4
+      },
+      {
+        "start": 50.1
+      },
+      {
+        "start": 58.7
+      },
+      {
+        "start": 64.3
+      },
+      {
+        "start": 71
+      },
+      {
+        "start": 78.1
+      },
+      {
+        "start": 90.5
+      },
+      {
+        "start": 99
+      },
+      {
+        "start": 104.5
+      },
+      {
+        "start": 111.1
+      },
+      {
+        "start": 118
+      },
+      {
+        "start": 130.4
+      },
+      {
+        "start": 139
+      },
+      {
+        "start": 144.5
+      },
+      {
+        "start": 151
+      },
+      {
+        "start": 158.4
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.5.2",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.5.2-suffusion-with-the-divine-abidings-english-0.mp3",
+    "start": 0,
+    "end": 187,
+    "nodes": [
+      {},
+      {
+        "start": 0
+      },
+      {
+        "start": 9.7
+      },
+      {
+        "start": 17.5
+      },
+      {
+        "start": 27.3
+      },
+      {
+        "start": 47.6
+      },
+      {
+        "start": 56.8
+      },
+      {
+        "start": 64.6
+      },
+      {
+        "start": 74.5
+      },
+      {
+        "start": 94.4
+      },
+      {
+        "start": 103
+      },
+      {
+        "start": 111
+      },
+      {
+        "start": 121
+      },
+      {
+        "start": 140.7
+      },
+      {
+        "start": 149.6
+      },
+      {
+        "start": 157.3
+      },
+      {
+        "start": 166.7
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.6",
+    "mediaUrl": "",
+    "start": 0,
+    "nodes": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": "ccb-1.3.7",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.7-reflection-on-the-unconditioned-0.mp3",
+    "start": 0,
+    "end": 114.1,
+    "nodes": [
+      {
+        "start": 0.9
+      },
+      {
+        "start": 6.4
+      },
+      {
+        "start": 15.1
+      },
+      {
+        "start": 23.9
+      },
+      {
+        "start": 34.4
+      },
+      {
+        "start": 45.3
+      },
+      {
+        "start": 57
+      },
+      {
+        "start": 69.5
+      },
+      {
+        "start": 79.9
+      },
+      {
+        "start": 89.8
+      },
+      {
+        "start": 101.1
+      }
+    ]
+  },
+  {
+    "id": "ccb-1.3.8",
+    "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.3.8-just-as-rivers-0.mp3",
+    "start": 0,
+    "end": 198.3,
+    "nodes": [
+      {
+        "start": 0.5
+      },
+      {
+        "start": 5.9
+      },
+      {
+        "start": 12.9
+      },
+      {
+        "start": 18.6
+      },
+      {
+        "start": 25.8
+      },
+      {
+        "start": 29.3
+      },
+      {
+        "start": 32.9
+      },
+      {
+        "start": 36.6
+      },
+      {
+        "start": 39.5
+      },
+      {
+        "start": 43
+      },
+      {
+        "start": 46.5
+      },
+      {
+        "start": 50
+      },
+      {
+        "start": 53.5
+      },
+      {
+        "start": 57.1
+      },
+      {
+        "start": 60.7
+      },
+      {
+        "start": 64.4
+      },
+      {
+        "start": 67.9
+      },
+      {
+        "start": 71.4
+      },
+      {
+        "start": 74.8
+      },
+      {
+        "start": 78.7
+      },
+      {
+        "start": 82.2
+      },
+      {
+        "start": 85.4
+      },
+      {
+        "start": 88.8
+      },
+      {
+        "start": 95.3
+      },
+      {
+        "start": 101.9
+      },
+      {
+        "start": 109.4
+      },
+      {
+        "start": 117.3
+      },
+      {
+        "start": 120.7
+      },
+      {
+        "start": 124.1
+      },
+      {
+        "start": 127.5
+      },
+      {
+        "start": 131
+      },
+      {
+        "start": 134.8
+      },
+      {
+        "start": 138
+      },
+      {
+        "start": 141.5
+      },
+      {
+        "start": 144.4
+      },
+      {
+        "start": 147.7
+      },
+      {
+        "start": 150.9
+      },
+      {
+        "start": 154.4
+      },
+      {
+        "start": 157.9
+      },
+      {
+        "start": 161.4
+      },
+      {
+        "start": 164.6
+      },
+      {
+        "start": 168.1
+      },
+      {
+        "start": 171.3
+      },
+      {
+        "start": 174.6
+      },
+      {
+        "start": 177.8
+      },
+      {
+        "start": 181
+      },
+      {
+        "start": 184.3
+      },
+      {
+        "start": 187.8
+      },
+      {
+        "start": 191
+      },
+      {
+        "start": 194.6
+      }
+    ]
   }
 ]
