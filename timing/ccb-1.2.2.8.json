@@ -1,0 +1,72 @@
+{
+  "id": "ccb-1.2.2.8",
+  "mediaUrl": "https://pujas-live.sfo3.cdn.digitaloceanspaces.com/chant-audio/ccb-1.2.2-evening-chanting-english-0.m4a",
+  "start": 521,
+  "end": 656.2,
+  "nodes": [
+    {
+      "start": 521
+    },
+    {
+      "start": 526.5
+    },
+    {
+      "start": 533.6
+    },
+    {
+      "start": 540.4
+    },
+    {
+      "start": 548
+    },
+    {
+      "start": 556.8
+    },
+    {
+      "start": 564.5
+    },
+    {
+      "start": 573.3
+    },
+    {
+      "start": 581.9
+    },
+    {
+      "start": 589.8
+    },
+    {
+      "start": 596
+    },
+    {
+      "start": 603.7
+    },
+    {
+      "start": 613
+    },
+    {
+      "start": 620.9
+    },
+    {
+      "start": 629.4
+    },
+    {
+      "start": 636
+    },
+    {
+      "start": 638.4
+    },
+    {
+      "start": 641
+    },
+    {
+      "start": 643.9
+    },
+    {
+      "start": 646.8
+    },
+    {
+      "start": 650.9,
+      "end": 650.9
+    }
+  ]
+}
